@@ -1,0 +1,16 @@
+{
+  "name": "HW_2",
+  "version": "1.0.0",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "nodejs-assistant": "^0.8.0"
+  },
+  "devDependencies": {
+    "event": "^1.0.0",
+    "@types/express-handlebars": "^3.1.0",
+    "@types/express": "^4.17.6"
+  }
+}
